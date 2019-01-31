@@ -1,0 +1,134 @@
+/* GENERAL */
+body
+{
+    font-family: 'Lato', sans-serif;
+    background: #C1F9C5;
+    
+}
+h1,h2,h3,h4,h5,h6
+{
+    font-weight: bold;
+}
+#heading h2 {
+    color: #RED;
+    font: uppercase;
+     margin: inherit;
+ 0   
+}
+p
+{
+    color: blue;
+    font-family: monospace;
+    margin-bottom: 100px;
+    
+}
+h3
+{
+    color: red;
+    font-family: cursive;
+    list-style-position: inside;
+}
+img
+{
+    height:600px;
+    margin: auto;
+    vertical-align: center;
+    
+    
+}
+
+footer
+{
+    background-color: #000;
+    height: 150px;
+    margin-top: 80px
+}
+footer h1
+{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 100px;
+        
+}
+.copyrigth
+{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    
+}
+/* CONTACT */
+
+#contact
+{
+    padding: 40px 0;
+    text-align: center
+}
+#contact h1
+{
+    width: 450px;
+    text-transform: uppercase;
+    margin: 20px auto;
+    height: 20px;
+   
+    padding-bottom: 10px;   
+}
+form
+{
+    margin: 50px 0 20px 0;
+}
+label
+{
+    font-weight: bold;
+    font-size: 25px;
+    margin-right: 0px;
+    color: #000;
+    text-align: center;
+}
+input[type="text"]
+{
+    padding:10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: 3px;
+    border-radius: 3px;
+
+}
+
+.button-3
+{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 11px;
+    background-color: #3A54E3;
+    border-style: none;
+    border-radius: 3px;
+}
+.button-3:hover
+{
+    color: #fff;
+    background-color: #444;
+}
+/* DESCRIPTION */
+ .header 
+{
+   background: green; 
+}
+#description .heading h2
+{
+    padding-top: 40px;
+    color: red;
+    background: green;
+}
+
+
+/*TRANSPORTS*/
+#transports 
+{
+    padding: 50px;
+    margin-bottom: 80px;
+    height: 100px;
+        
+}
